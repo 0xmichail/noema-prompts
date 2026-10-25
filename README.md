@@ -47,6 +47,10 @@ These templates do not establish novel research contributions or model-independe
 
 The collection is shaped by the maintainer's direction and judgment, with AI assistance for drafting, refinement, and review. AI assistance does not substitute for evidence or human accountability.
 
-## Reuse and licensing
+## License
 
-No license file is currently included in this repository. Licensing terms have not been specified here; contact the maintainer for clarification.
+The prompts, examples, and documentation in this repository are licensed under [Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/).
+
+You are welcome to share and adapt them, including for commercial purposes. Credit **Michalis (0xmichail)** and **Noema Prompts**, link to the license, and indicate any changes you make.
+
+See [LICENSE](LICENSE) for the full license text.
